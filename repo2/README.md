@@ -1,0 +1,1 @@
+test file for checking how to work with Git from Intelij IDEA
