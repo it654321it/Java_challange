@@ -1,1 +1,1 @@
-test file for checking how to work with Git from Intelij IDEA
+test file for checking how to work with Git from Intelij IDEA App.
