@@ -8,7 +8,7 @@ class TestSimpleCalculator {
 
     @Test
     void twoMultiplyTwoShouldEqualFour() {
-        SimpleCalculator calculator = new SimpleCalculator();
+        var calculator = new SimpleCalculator();
         
         int num1 = 2, num2 = 2, expected = 4;
 
@@ -17,7 +17,7 @@ class TestSimpleCalculator {
 
     @Test
     void threeMultiplyTenShouldEqualThirty() {
-        SimpleCalculator calculator = new SimpleCalculator();
+        var calculator = new SimpleCalculator();
 
         int num1 = 3, num2 = 10, expected = 30;
 
