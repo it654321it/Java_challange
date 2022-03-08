@@ -7,7 +7,7 @@ public class Fibonachi {
 		System.out.println("Fibonachi app.started ! Enter number to calculate last number of Fibocnachi row:");
         Scanner s = new Scanner(System.in);
         int enteredNumber = s.nextInt();
-		System.out.println("Fibonachi raw for number:" + arrSize + " is: " + getLastNumberInFibonachiRow(enteredNumber)); 
+		System.out.println("Fibonachi raw for number:" + enteredNumber + " is: " + getLastNumberInFibonachiRow(enteredNumber)); 
         System.out.print("Fibonachi app. FINISHED !");
     }
     public static int getLastNumberInFibonachiRow(int num) {
